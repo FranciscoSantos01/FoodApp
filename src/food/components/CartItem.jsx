@@ -53,4 +53,3 @@ const styles = StyleSheet.create({
 })
 
 
-//API_KEY:AIzaSyCBpsoYN0uVV5xldUVU771SpUN8LcAsNnA
